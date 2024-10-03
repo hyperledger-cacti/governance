@@ -34,12 +34,12 @@ teams:
       - petermetz
   - name: cacti-maintainers
     maintainers:
-      - jonathan-m-hamilton
       - petermetz
     members:
       - RafaelAPB
       - VRamakrishna
       - izuru0
+      - jonathan-m-hamilton
       - outSH
       - sandeepnRES
       - sfuji822
@@ -60,6 +60,9 @@ teams:
       - petermetz
     members:
       - VRamakrishna
+  - name: lf-staff
+    maintainers:
+      - ryjones
 
 repositories:
   - name: cacti
@@ -71,4 +74,9 @@ repositories:
       cacti-maintainers: maintain
       cacti-security-administration: admin
       cactus-contributors-ibm-triage: triage
+    visibility: public
+  - name: governance
+    teams:
+      cacti-maintainers: maintain
+      lf-staff: maintain
     visibility: public
