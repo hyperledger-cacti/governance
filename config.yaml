@@ -67,10 +67,7 @@ teams:
 repositories:
   - name: governance
     teams:
-      cacti-security-administration: admin
-    visibility: public
-  - name: governance
-    teams:
       cacti-maintainers: maintain
+      cacti-security-administration: admin
       lf-staff: maintain
     visibility: public
