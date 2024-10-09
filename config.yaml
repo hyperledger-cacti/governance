@@ -65,16 +65,16 @@ teams:
       - ryjones
 
 repositories:
-  - name: cacti
-    teams:
-      cacti-contributors: read
-      cacti-contributors-accenture: read
-      cacti-contributors-accenture-readonly: read
-      cacti-contributors-accenture-triage: triage
-      cacti-maintainers: maintain
-      cacti-security-administration: admin
-      cactus-contributors-ibm-triage: triage
-    visibility: public
+#  - name: cacti
+#    teams:
+#      cacti-contributors: read
+#      cacti-contributors-accenture: read
+#      cacti-contributors-accenture-readonly: read
+#      cacti-contributors-accenture-triage: triage
+#      cacti-maintainers: maintain
+#      cacti-security-administration: admin
+#      cactus-contributors-ibm-triage: triage
+#    visibility: public
     
   - name: governance
     teams:
