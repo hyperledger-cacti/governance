@@ -13,19 +13,24 @@ teams:
     maintainers:
       - petermetz
     members:
-      - Leeyoungone
-      - TonyRowntree
       - adrianbatuto
       - aldousalvarez
-      - elenaizaguirre
       - jagpreetsinghsasan
       - johnhomantaring
-      - kikoncuo
-      - m-courtin
       - ruzell22
-      - suvajit-sarkar
-      - travis-payne
       - zondervancalvez
+  - name: cacti-contributors-tecnico-lisboa
+    maintainers:
+      - petermetz
+      - RafaelAPB
+    members:
+      - LordKubaya
+  - name: cacti-contributors-tecnico-lisboa-read-only
+    maintainers:
+      - petermetz
+      - RafaelAPB
+    members:
+      - LordKubaya
   - name: cacti-contributors-accenture-readonly
     maintainers:
       - petermetz
@@ -71,6 +76,8 @@ repositories:
       cacti-contributors-accenture: read
       cacti-contributors-accenture-readonly: read
       cacti-contributors-accenture-triage: triage
+      cacti-contributors-tecnico-lisboa: write
+      cacti-contributors-tecnico-lisboa-read-only: read
       cacti-maintainers: maintain
       cacti-security-administration: admin
       cactus-contributors-ibm-triage: triage
