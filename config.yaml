@@ -87,5 +87,5 @@ repositories:
     teams:
       cacti-maintainers: maintain
       cacti-security-administration: admin
-      lf-staff: maintain
+      lf-staff: admin
     visibility: public
