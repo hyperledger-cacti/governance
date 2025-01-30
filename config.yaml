@@ -31,7 +31,7 @@ teams:
       - edsonCVN
       - JJSantos22
       - joaoecsde
-      - ist173130
+      - pandaio22
   - name: cacti-contributors-tecnico-lisboa-read-only
     maintainers:
       - petermetz
@@ -44,7 +44,7 @@ teams:
       - edsonCVN
       - JJSantos22
       - joaoecsde
-      - ist173130
+      - pandaio22
   - name: cacti-contributors-accenture-readonly
     maintainers:
       - petermetz
