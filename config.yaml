@@ -82,6 +82,8 @@ teams:
   - name: lf-staff
     maintainers:
       - ryjones
+    members:
+      - jwagantall
 
 repositories:
   - name: cacti
