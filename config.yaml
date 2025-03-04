@@ -25,13 +25,6 @@ teams:
       - RafaelAPB
       - LordKubaya
       - AndreAugusto11
-    members:
-      - sfilangio01
-      - Tomas-Silva2187
-      - edsonCVN
-      - JJSantos22
-      - joaoecsde
-      - pandaio22
   - name: cacti-contributors-tecnico-lisboa-read-only
     maintainers:
       - petermetz
