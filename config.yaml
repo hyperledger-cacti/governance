@@ -1,27 +1,14 @@
 teams:
   - name: cacti-contributors
     maintainers:
-      - petermetz
+      - RafaelAPB
     members:
       - AndreAugusto11
-      - RafaelAPB
       - outsidethecode
       - rudranshsharma123
-  - name: cacti-contributors-accenture
-    maintainers:
-      - petermetz
-    members:
-      - adrianbatuto
-      - aldousalvarez
-      - jagpreetsinghsasan
-      - ruzell22
-      - zondervancalvez
   - name: cacti-contributors-tecnico-lisboa
     maintainers:
-      - petermetz
-      - RafaelAPB
       - LordKubaya
-      - AndreAugusto11
   - name: cacti-contributors-tecnico-lisboa-read-only
     maintainers:
       - petermetz
@@ -35,12 +22,6 @@ teams:
       - JJSantos22
       - joaoecsde
       - pandaio22
-  - name: cacti-contributors-accenture-readonly
-    maintainers:
-      - petermetz
-  - name: cacti-contributors-accenture-triage
-    maintainers:
-      - petermetz
   - name: cacti-maintainers
     maintainers:
       - petermetz
@@ -78,9 +59,6 @@ repositories:
   - name: cacti
     teams:
       cacti-contributors: read
-      cacti-contributors-accenture: read
-      cacti-contributors-accenture-readonly: read
-      cacti-contributors-accenture-triage: triage
       cacti-contributors-tecnico-lisboa: write
       cacti-contributors-tecnico-lisboa-read-only: read
       cacti-maintainers: maintain
