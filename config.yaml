@@ -57,6 +57,12 @@ teams:
       - jwagantall
 
 repositories:
+  - name: .github
+    teams:
+      cacti-maintainers: maintain
+      lf-staff: admin
+    visibility: public
+
   - name: cacti
     teams:
       cacti-contributors: read
@@ -66,7 +72,7 @@ repositories:
       cacti-security-administration: admin
       cactus-contributors-ibm-triage: triage
     visibility: public
-    
+
   - name: governance
     teams:
       cacti-maintainers: maintain
