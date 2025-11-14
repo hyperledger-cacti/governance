@@ -1,26 +1,12 @@
 teams:
-  - name: cacti-contributors
-    maintainers:
-      - RafaelAPB
-    members:
-      - AndreAugusto11
-      - outsidethecode
-      - rudranshsharma123
-  - name: cacti-contributors-tecnico-lisboa
-    maintainers:
-      - LordKubaya
   - name: cacti-contributors-tecnico-lisboa-read-only
     maintainers:
-      - petermetz
       - RafaelAPB
       - LordKubaya
       - AndreAugusto11
     members:
-      - sfilangio01
       - Tomas-Silva2187
       - edsonCVN
-      - JJSantos22
-      - joaoecsde
       - pandaio22
   - name: cacti-maintainers
     maintainers:
@@ -29,27 +15,19 @@ teams:
       - RafaelAPB
       - AndreAugusto11
       - VRamakrishna
-      - izuru0
       - outSH
       - sandeepnRES
-      - sfuji822
-      - takeutak
+      - LordKubaya
   - name: cacti-security-administration
     maintainers:
-      - petermetz
-    members:
       - RafaelAPB
       - VRamakrishna
-      - izuru0
-      - TheJagpreet
+    members:
+      - LordKubaya
+      - AndreAugusto11
+      - LordKubaya
       - outSH
       - sandeepnRES
-      - takeutak
-  - name: cactus-contributors-ibm-triage
-    maintainers:
-      - petermetz
-    members:
-      - VRamakrishna
   - name: lf-staff
     maintainers:
       - ryjones
@@ -65,12 +43,9 @@ repositories:
 
   - name: cacti
     teams:
-      cacti-contributors: read
-      cacti-contributors-tecnico-lisboa: write
       cacti-contributors-tecnico-lisboa-read-only: read
       cacti-maintainers: maintain
       cacti-security-administration: admin
-      cactus-contributors-ibm-triage: triage
     visibility: public
 
   - name: governance
