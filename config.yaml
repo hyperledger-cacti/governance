@@ -1,16 +1,26 @@
 teams:
+  - name: cacti-mentorship
+    maintainers:
+      - RafaelAPB
+      - LordKubaya
+      - AndreAugusto11
+    members:
+      - ParthSinghPS
   - name: cacti-contributors-tecnico-lisboa-read-only
     maintainers:
       - RafaelAPB
       - LordKubaya
       - AndreAugusto11
     members:
-      - Tomas-Silva2187
-      - edsonCVN
       - pandaio22
   - name: cacti-maintainers
     maintainers:
-      - petermetz
+      - RafaelAPB
+      - AndreAugusto11
+      - VRamakrishna
+      - outSH
+      - sandeepnRES
+      - LordKubaya
     members:
       - RafaelAPB
       - AndreAugusto11
