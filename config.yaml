@@ -16,13 +16,7 @@ teams:
   - name: cacti-maintainers
     maintainers:
       - RafaelAPB
-      - AndreAugusto11
-      - VRamakrishna
-      - outSH
-      - sandeepnRES
-      - LordKubaya
     members:
-      - RafaelAPB
       - AndreAugusto11
       - VRamakrishna
       - outSH
