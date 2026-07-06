@@ -46,6 +46,13 @@ repositories:
       lf-staff: admin
     visibility: public
 
+  - name: cacti-rulesets
+    teams:
+      cacti-maintainers: maintain
+      cacti-security-administration: admin
+      lf-staff: admin
+    visibility: private
+
   - name: cacti
     teams:
       cacti-contributors-tecnico-lisboa-read-only: read
